@@ -5,7 +5,8 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 
 ## 🏗️ Data Architecture
-![Data Architecture](https://github.com/DataWithBaraa/sql-data-warehouse-project/raw/main/docs/data_architecture.png)
+
+![Data Architecture](https://github.com/zunairanureen/crm_erp_datawarehouse_project/raw/main/data_architecture.png)
 
 # Bronze Layer: 
 Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
